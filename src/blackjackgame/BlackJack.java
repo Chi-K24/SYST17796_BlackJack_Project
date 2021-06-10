@@ -1,18 +1,29 @@
 package blackjackgame;
 
-public class BlackJack {
+/**
+ *
+ * @author Chi T. Le - 991185018>
+ * @version 1.0
+ * @since 09/06/2021
+ */
 
-    private int value;
-    private String suit;
+public class BlackJack {
+    
+    public enum Suit {HEARTS, CLUBS, SPADES, DIAMONDS}
+    
+    public enum Value {ACE, TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, TEN, JACK, QUEEN, KING}
+
+    private Value value;
+    private Suit suit;
     
     public static final String SUITS[] = {"HEARTS", "DIAMONDS", "SPADES", "CLUBS"};
 
-    public BlackJack(int value, String suit) {
+    public BlackJack(Value value, Suit suit) {
         this.value = value;
         this.suit = suit;
     }
 
-    public int getValue() {
+    public Value getValue() {
         return this.value;
     }
 
@@ -20,11 +31,11 @@ public class BlackJack {
      *
      * @param value
      */
-    public void setValue(int value) {
+    public void setValue(Value value) {
         this.value = value;
     }
 
-    public String getSuit() {
+    public Suit getSuit() {
         return this.suit;
     }
 
@@ -32,7 +43,7 @@ public class BlackJack {
      *
      * @param suit
      */
-    public void setSuit(String suit) {
+    public void setSuit(Suit suit) {
         this.suit = suit;
     }
 
