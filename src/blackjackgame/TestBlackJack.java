@@ -57,7 +57,6 @@ public class TestBlackJack {
                 break;
             }
         }
-
         String response = match ? "Right guess" : "No match";
 
         System.out.println (response);
