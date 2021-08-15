@@ -1,7 +1,10 @@
 package wemakeit.blackjack;
 import java.util.Scanner;
 /**
- * @author Rich Smith at ZenOfProgramming.com
+ * @author Eun, Yujin
+ * @author Jung, Jieun
+ * @author Le, Chi
+ * @author Ocheretianyi, Vitalii
  */
 public class Blackjack
 {

@@ -1,7 +1,12 @@
 package wemakeit.blackjack;
 
 import java.util.ArrayList;
-
+/**
+ * @author Eun, Yujin
+ * @author Jung, Jieun
+ * @author Le, Chi
+ * @author Ocheretianyi, Vitalii
+ */
 /**
  * This class is responsible for managing the user hand
  * Addition of cards to the hand

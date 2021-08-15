@@ -1,5 +1,10 @@
 package wemakeit.blackjack;
-
+/**
+ * @author Eun, Yujin
+ * @author Jung, Jieun
+ * @author Le, Chi
+ * @author Ocheretianyi, Vitalii
+ */
 /**
  * You may need this class to create a Dealer and a Gamer class
  * I don't know how useful it is going to be, since you can just use hands
