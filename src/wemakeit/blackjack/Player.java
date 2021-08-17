@@ -3,6 +3,8 @@ package wemakeit.blackjack;
 /**
  * A class that models Player in the game.
  *
+ * @author dancye
+ * @author Paul Bonenfant Jan 2020
  * @author Vitalii Ocheretianyi
  * @author Chi Le
  * @author Jieun Jung

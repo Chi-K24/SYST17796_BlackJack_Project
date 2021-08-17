@@ -4,9 +4,7 @@ package wemakeit.blackjack;
  * A class that models Card in the game.
  *
  * @author Vitalii Ocheretianyi
- * @author Chi Le
- * @author Jieun Jung
- * @author Yujin Eun
+ * @author dancye
  */
 public class Card
 {
