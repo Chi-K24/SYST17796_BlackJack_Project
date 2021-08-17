@@ -1,9 +1,13 @@
 package wemakeit.blackjack;
+
+
 /**
- * @author Eun, Yujin
- * @author Jung, Jieun
- * @author Le, Chi
- * @author Ocheretianyi, Vitalii
+ * An enum of card suits
+ *
+ * @author Vitalii Ocheretianyi
+ * @author Chi Le
+ * @author Jieun Jung
+ * @author Yujin Eun
  */
 public enum Suit
 {

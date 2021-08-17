@@ -1,18 +1,12 @@
 package wemakeit.blackjack;
-/**
- * @author Eun, Yujin
- * @author Jung, Jieun
- * @author Le, Chi
- * @author Ocheretianyi, Vitalii
- */
 
 /**
- * DO NOT EDIT THIS. THIS IS COMPLETE
- * A class that just creates the original deck of 52 cards
- * And shuffles it
- * When you use the getCard() method it returns an object of type Card
- * TO THE CLASS THAT CALLED THE getCard() METHOD
- * and deletes the returned card from THE ARRAYLIST IN THIS CLASS
+ * A class that models a deck of cards in the game.
+ *
+ * @author Vitalii Ocheretianyi
+ * @author Chi Le
+ * @author Jieun Jung
+ * @author Yujin Eun
  */
 
 import java.util.ArrayList;

@@ -1,9 +1,9 @@
 package wemakeit.blackjack;
+
 /**
- * @author Eun, Yujin
- * @author Jung, Jieun
- * @author Le, Chi
- * @author Ocheretianyi, Vitalii
+ * A class that models Card in the game.
+ *
+ * @author Vitalii Ocheretianyi
  */
 public class Card
 {
